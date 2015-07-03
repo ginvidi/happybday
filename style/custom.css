@@ -1,0 +1,40 @@
+#happy img{
+ width: 100%;
+}
+text.text {
+  display: none;
+}
+
+
+
+.bubbleChart {
+  min-width: 100px;
+  max-width: 700px;
+  height: 700px;
+  margin: 0 auto;
+    }
+    .bubbleChart svg{
+
+      width: 100%!important;
+    }
+
+
+/*modal style*/
+#myModal .modal-dialog .modal-content{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  top:200px;
+
+}
+
+.close{
+   font-size: 44px;
+}
+
+.wish{
+   margin-bottom: 15px;
+   
+}
+/* end modal style*/
