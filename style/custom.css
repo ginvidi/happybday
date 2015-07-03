@@ -10,7 +10,10 @@ text.text {
   display: none;
 }
 
-
+text.central-click {
+  font-size: 20px!important;
+  font-weight: bold;
+}
 
 .bubbleChart {
   min-width: 100px;
