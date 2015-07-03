@@ -1,3 +1,8 @@
+body{
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
 #happy img{
  width: 100%;
 }
@@ -10,7 +15,7 @@ text.text {
 .bubbleChart {
   min-width: 100px;
   max-width: 700px;
-  height: 700px;
+  height: 400px;
   margin: 0 auto;
     }
     .bubbleChart svg{
@@ -35,6 +40,6 @@ text.text {
 
 .wish{
    margin-bottom: 15px;
-   
+
 }
 /* end modal style*/

@@ -19,8 +19,10 @@ $(document).ready(function () {
         {text: "Many_happy_returns,_Tom._Don't_spend_your_birthday_watching_the_screen,_head_out_and_have_lots_of_fun!", count: "172", signature: "Nero"},
         {text: "Have_a_great_day_Tom!", count: "123", signature: "Yago"},
         {text: "Happy_bday!", count: "12", signature: "Gine"},
-        {text: "Happy_Birthday", count: "170", signature: "Ben"},
+        {text: "Happy_Birthday_Tom!_Hope_you're_having_a_great_day_with_the_family._Given_the_speed_of_framework_changes,_the_graphic_above_will_probably_already_be_considered_“retro”_by_the_time_you_read_this._Nevertheless,_your_birthday_design_challenge,_of_course,_is_to_identify_the_brand_inspiration_behind_each_of_the_letters._Enjoy!", count: "170", signature: "Ben"},
         {text: "console.log('Happy_Birthday_Tom!');", count: "382", signature: "Brian"},
+         {text: "Happy_Birthday!!!');", count: "385", signature: "Joaquin"},
+         {text: "Have_a_happy_one!!');", count: "385", signature: "Katrien"},
         {text: "Happy_Birthday", count: "10", signature: "Joe"}
       ],
       signature: function (item) {return item.signature;},
