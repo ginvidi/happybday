@@ -1,0 +1,50 @@
+body{
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+#happy img{
+ width: 100%;
+}
+text.text {
+  display: none;
+}
+
+text.central-click {
+  font-size: 20px!important;
+  font-weight: bold;
+}
+
+.bubbleChart {
+  min-width: 100px;
+  max-width: 700px;
+  height: 400px;
+  margin: 0 auto;
+    }
+    .bubbleChart svg{
+
+      width: 100%!important;
+    }
+
+
+/*modal style*/
+#myModal .modal-dialog .modal-content{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Indie Flower', cursive;
+  top:200px;
+
+}
+
+.close{
+   font-size: 44px;
+   cursor: pointer;
+
+}
+
+.wish{
+   margin-bottom: 15px;
+
+}
+/* end modal style*/
